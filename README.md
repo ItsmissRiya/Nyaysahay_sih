@@ -6,6 +6,9 @@ NGOs can use the app to offer help with health, education,financially,training, 
 NGOs can help in assigning lawyers toundertrial prisoners and track active/pending/live cases under them.
 Counselors can manage appointments and patient records efficiently.
 
+Images of App are in img2,img3,img4,img5,img6 & nyaya png files of this repo!
+
+
 Team Members:Riya Jaiswal
 Rajeshwari Mahapatra
 Sarah Khan
