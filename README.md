@@ -8,14 +8,6 @@ Counselors can manage appointments and patient records efficiently.
 
 Images of App are in img2,img3,img4,img5,img6 & nyaya png files of this repo!
 
-
-Team Members:Riya Jaiswal
-Rajeshwari Mahapatra
-Sarah Khan
-Arnav Khochare
-Diptanshu Mishra
-Yash Khandelwal
-
 Key takeaways from our app:
 Mobile app: Providing legal aid through a mobile app, including legal representation, access to court proceedings, and legal resources.
 Connecting Platform: Creating a platform that connects undertrial prisoners with pro bono lawyers, legal clinics, and legal aid organizations, including UTRCs  for the bail process.
