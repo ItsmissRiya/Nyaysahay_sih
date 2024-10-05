@@ -25,3 +25,5 @@ Connecting Platform : Creating a platform that connects undertrial prisoners wit
 Dashboard : Developing a dashboard to track and monitor the status and progress of undertrial prisoners, providing real-time information to lawyers, judges, and prison authorities
 Virtual Platform : Establishing a virtual platform to enhance awareness of rights and various provisions for undertrial prisoners and their support persons.
 Chatbot : To develop a chatbot to get information about legal rights at fingertip.
+
+Demo Video: https://drive.google.com/file/d/1EfdPMKcfjJ65bUeUeOdQ6ftpJAVl69SY/view
